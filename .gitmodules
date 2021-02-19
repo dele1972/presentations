@@ -1,0 +1,3 @@
+[submodule "keyboard-layout"]
+	path = keyboard-layout
+	url = https://github.com/dele1972/keyboard-layout
