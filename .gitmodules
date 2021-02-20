@@ -1,3 +1,6 @@
 [submodule "keyboard-layout"]
 	path = keyboard-layout
 	url = https://github.com/dele1972/keyboard-layout
+[submodule "vim-as-an-ide"]
+	path = vim-as-an-ide
+	url = https://github.com/dele1972/vim-as-an-ide.git
